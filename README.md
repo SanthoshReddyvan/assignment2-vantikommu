@@ -30,3 +30,7 @@ I feel once in a life time everyone needs to visit my fav country list, because 
 |   India                          | Cultural treat and Food      |      20            |
 |   Scotland                       | Climate and People           |      12            |               
 
+**********
+### Funny Quotes
+>“Light travels faster than sound. This is why some people appear bright until you hear them speak.” *Alan Dundes*
+>“A woman is like a tea bag – you can’t tell how strong she is until you put her in hot water.” *Eleanor Roosevelt*
