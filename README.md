@@ -35,3 +35,13 @@ I feel once in a life time everyone needs to visit my fav country list, because 
 >“Light travels faster than sound. This is why some people appear bright until you hear them speak.”   ~ *Alan Dundes*
 >
 >“A woman is like a tea bag – you can’t tell how strong she is until you put her in hot water.”    ~ *Eleanor Roosevelt*
+***********
+### Sample code snippet
+Sample question :: https://stackoverflow.com/questions/11261883/how-to-get-the-wordpress-post-thumbnail-featured-image-url
+~~~~
+add_theme_support('post-thumbnails'); 
+$thumb_id = get_post_thumbnail_id();
+$thumb_url_array = wp_get_attachment_image_src($thumb_id, 'thumbnail-size', true);
+$thumb_url = $thumb_url_array[0];
+~~~~
+[Click here for sample snippet reference link](https://css-tricks.com/snippets/wordpress/get-featured-image-url/)
