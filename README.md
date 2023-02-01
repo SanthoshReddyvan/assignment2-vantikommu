@@ -16,3 +16,17 @@ Royal Challengers Bengaluru
 + Chennai Super Kings
 
 ![AboutMe link](AboutMe.md)
+
+*********
+### My Fav Countries list
+
+I feel once in a life time everyone needs to visit my fav country list, because the atmosphere and the scenic beauty of the places which are found in those countries are delightful to be captured by ones own heart. I strongly believe that it will be a lifetime joy in one's life.
+
+    
+|   **Country Name**               | **Good For a Reason**        |**Days suggested**  |
+|----------------------------------|------------------------------|--------------------|
+|   Switzerland                    | Iconic Nature and waterfalls |      15            |
+|   France                         | It's Capital Paris           |      10            |
+|   India                          | Cultural treat and Food      |      20            |
+|   Scotland                       | Climate and People           |      12            |               
+
