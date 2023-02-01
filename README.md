@@ -10,3 +10,7 @@ Royal Challengers Bengaluru
 1. Virat Kohli
 2. AB De Villiers
 3. Wanindu Hasaranga
+
+* SunRisers Hyderabad 
+- Mumbai Indians
++ Chennai Super Kings
