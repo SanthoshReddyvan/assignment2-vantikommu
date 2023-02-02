@@ -52,4 +52,4 @@ $thumb_url_array = wp_get_attachment_image_src($thumb_id, 'thumbnail-size', true
 $thumb_url = $thumb_url_array[0];
 ````
 
-Click here for sample snippet reference link   : <https://css-tricks.com/snippets/wordpress/get-featured-image-url/>
+Click the sample snippet reference link  : <https://css-tricks.com/snippets/wordpress/get-featured-image-url/>
