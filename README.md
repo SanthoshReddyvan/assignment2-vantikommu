@@ -42,7 +42,8 @@ I feel once in a life time everyone needs to visit my fav country list, because 
 ### Sample code snippet
 
 >How to Get Featured Image URL?
-Stack link :: https://stackoverflow.com/questions/11261883/how-to-get-the-wordpress-post-thumbnail-featured-image-url
+
+Stack link : <https://stackoverflow.com/questions/11261883/how-to-get-the-wordpress-post-thumbnail-featured-image-url>
 
 ````
 add_theme_support('post-thumbnails'); 
@@ -51,4 +52,4 @@ $thumb_url_array = wp_get_attachment_image_src($thumb_id, 'thumbnail-size', true
 $thumb_url = $thumb_url_array[0];
 ````
 
-Click here for sample snippet reference link <https://css-tricks.com/snippets/wordpress/get-featured-image-url/>
+Click here for sample snippet reference link   : <https://css-tricks.com/snippets/wordpress/get-featured-image-url/>
