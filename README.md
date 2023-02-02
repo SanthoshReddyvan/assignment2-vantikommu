@@ -25,7 +25,7 @@ I feel once in a life time everyone needs to visit my fav country list, because 
     
 |   **Country Name**               | **Good For a Reason**        |**Days suggested**  |
 |----------------------------------|------------------------------|--------------------|
-|   Switzerland                    | Iconic Nature and waterfalls |      15            |
+|   Switzerland                    | Scenic Nature and waterfalls |      15            |
 |   France                         | It's Capital Paris           |      10            |
 |   India                          | Cultural treat and Food      |      20            |
 |   Scotland                       | Climate and People           |      12            |               
@@ -37,11 +37,12 @@ I feel once in a life time everyone needs to visit my fav country list, because 
 >“A woman is like a tea bag – you can’t tell how strong she is until you put her in hot water.”    ~ *Eleanor Roosevelt*
 ***********
 ### Sample code snippet
-Sample question :: https://stackoverflow.com/questions/11261883/how-to-get-the-wordpress-post-thumbnail-featured-image-url
+>How to Get Featured Image URL?
+URL :: https://stackoverflow.com/questions/11261883/how-to-get-the-wordpress-post-thumbnail-featured-image-url
 ~~~~
 add_theme_support('post-thumbnails'); 
 $thumb_id = get_post_thumbnail_id();
 $thumb_url_array = wp_get_attachment_image_src($thumb_id, 'thumbnail-size', true);
 $thumb_url = $thumb_url_array[0];
 ~~~~
-[Click here for sample snippet reference link](https://css-tricks.com/snippets/wordpress/get-featured-image-url/)
+[Click here for sample snippet reference link] (https://css-tricks.com/snippets/wordpress/get-featured-image-url/)
